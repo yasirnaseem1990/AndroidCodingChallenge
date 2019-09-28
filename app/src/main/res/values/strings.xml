@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCodingChallenge</string>
+    <string name="movies_data">Movies Data</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="search_movie"><![CDATA[Search movie by title & genre]]></string>
+    <string name="no_movies_found">No movies found</string>
+</resources>
