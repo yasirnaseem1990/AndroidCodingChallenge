@@ -5,4 +5,5 @@
     <string name="year">Year</string>
     <string name="search_movie"><![CDATA[Search movie by title & genre]]></string>
     <string name="no_movies_found">No movies found</string>
+    <string name="android_coding_challenge">Android\nCoding Challenge</string>
 </resources>
